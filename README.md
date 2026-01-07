@@ -6,4 +6,4 @@
 **Live Demo:** [Click here to view the app](https://surbhi-srivastava.github.io/todo-react-main/)
 
 ---
-![TodoMatic App Screenshot](Screenshot.png)
+![TodoMatic App Screenshot](todo-react-main/Screenshot.png)
